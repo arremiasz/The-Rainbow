@@ -1,4 +1,4 @@
-The Rainbow and the Unicorn and the -
+The Rainbow and the Unicorn and the Bee
 
 Purple
 black
@@ -8,8 +8,9 @@ Blue
 Green
 Unicorn
 Yellow
+Buzz
 Red
 
 These are colors of the rainbow
 And the unicorn
-L
+And the bee
